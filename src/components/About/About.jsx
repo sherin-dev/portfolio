@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import profile_img from '../../assets/Sherin_img1.png'
+import profile_img from '../../assets/sherin_img1.png'
 const About = () => {
   return (
     <div id="about" className='about'> 
