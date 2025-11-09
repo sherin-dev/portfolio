@@ -6,7 +6,7 @@ const Hero = () => {
 
   const handleResumeDownload=()=>{
     const link=document.createElement("a");
-    link.href='.././public/Sherin_Resume(React.js).pdf';
+    link.href='/Sherin_Resume(React.js).pdf';
     link.download='Sherin_Shanavas_resume.pdf';
     link.click();
   };
