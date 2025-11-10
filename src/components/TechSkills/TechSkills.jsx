@@ -3,7 +3,7 @@ import './TechSkills.css'
 import TechSkills_Data from '../../assets/techskills'
 const TechSkills = () => {
   return (
-    <div className='services'>
+    <div  id='services' className='services'>
         <div className="services-title">
             <h1>Technical Skills</h1>
             {/* <img src={theme_pattern} alt="" /> */}
